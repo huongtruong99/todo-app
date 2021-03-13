@@ -1,0 +1,2 @@
+private int mul(int a, b){ return a.b;
+}
