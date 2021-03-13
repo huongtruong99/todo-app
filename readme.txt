@@ -1,1 +1,1 @@
-version : todo-app-1.1-snapshot
+version : todo-app-1.1
