@@ -1,2 +1,6 @@
-private int mul(int a, b){ return a.b;
+private int mul(int a, b){ 
+if(a*b> Integer.max){
+throw new exception();
+}
+return a.b;
 }
