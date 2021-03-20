@@ -1,5 +1,5 @@
 
-version : todo-app-2.1-snapshot
+version : todo-app-2.1
 
 
 
