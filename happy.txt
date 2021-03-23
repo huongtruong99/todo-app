@@ -1,0 +1,3 @@
+private boolean isHappynumer(int a){
+return a;
+}
